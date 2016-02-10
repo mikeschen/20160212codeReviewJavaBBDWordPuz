@@ -18,7 +18,7 @@ public class AppTest extends FluentTest {
   @Test
   public void rootTest() {
       goTo("http://localhost:4567/");
-      assertThat(pageSource()).contains("Scrabble Calculator");
+      assertThat(pageSource()).contains("Word Puzzle");
   }
 
   @Test
@@ -26,6 +26,6 @@ public class AppTest extends FluentTest {
     goTo("http://localhost:4567");
     fill("#word").with("dog");
     submit(".btn");
-    assertThat(pageSource()).contains("Your word dog has a score of 5");
+    assertThat(pageSource()).contains("d-g");
   }
 }
