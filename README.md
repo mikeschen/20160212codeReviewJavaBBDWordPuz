@@ -1,12 +1,12 @@
 # Scrabble Score Calculator
 
-#### Calculates your score for a Scrabble word, February 9, 2016.
+#### Creates a word puzzle from a sentence by removing vowels, February 12, 2016.
 
-#### By Michelle Brecunier and Michael Schennum
+#### By Michael Schennum
 
 ## Description
 
-This was created as an Epicodus exercise in Behavior Driven Development, web app development with Spark and Velocity, and pair programming.
+This was created as an Epicodus exercise in Behavior Driven Development, web app development with Spark and Velocity, and solo programming.
 
 ## Setup/Installation Requirements
 
@@ -26,7 +26,7 @@ Java, Spark, Junit, Velocity, Bootstrap
 
 This software is licensed under the MIT license.
 
-Copyright (c) 2016 Michelle Brecunier and Michael Schennum
+Copyright (c) 2016 Michael Schennum
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
