@@ -6,7 +6,14 @@ public class WordPuzzleTest {
   @Test
   public void wordPuzzle_WillReturnSameWordwithNoVowels() {
 	WordPuzzle testWordPuzzle = new WordPuzzle();
-    assertEquals("shhh", testWordPuzzle.puzzleSentence("shhh"));
+	String userInputs = "shhh";
+    assertEquals(userInputs, testWordPuzzle.puzzleSentence("shhh"));
+  }
+
+    @Test
+  public void wordPuzzle_WillReturnSameWordwithMultipleVowels() {
+	WordPuzzle testWordPuzzle = new WordPuzzle();
+    assertEquals("h-td-gp-ps-cl-", testWordPuzzle.puzzleSentence("hotdogpopsicle"));
   }
 
 }

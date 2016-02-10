@@ -29,6 +29,6 @@ public class WordPuzzle {
   }
 
   public static String puzzleSentence(String userString) {
-        return userString.replaceAll("(?i)[aeiou]", "-").trim();
+        return userString.replaceAll("[aeiou]", "-");
         }
     }
