@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScrabbleTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2016-02-10T00:38:43" hostname="epicodus-67.local" time="0.004">
+  <properties/>
+  <testcase name="scrabbleScore_Adds2PointsIfCharIsDOrG" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="scrabbleScore_Adds4PointsIfCharIsFHVWY" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="scrabbleScore_Adds5PointsIfCharIsK" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="scrabbleScore_Adds8PointsIfCharIsJX" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="scrabbleScore_Adds10PointsIfCharIsQZ" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="scrabbleScore_WillReturnScoreForWord" classname="ScrabbleTest" time="0.0"/>
+  <testcase name="scrabbleScore_Adds3PointsIfCharIsBCMP" classname="ScrabbleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
