@@ -1,4 +1,4 @@
-# Scrabble Score Calculator
+# Word Puzzle Creator
 
 #### Creates a word puzzle from a sentence by removing vowels, February 12, 2016.
 
@@ -10,7 +10,7 @@ This was created as an Epicodus exercise in Behavior Driven Development, web app
 
 ## Setup/Installation Requirements
 
-* Clone this repository.
+* Clone this repository
 * Make sure you have Gradle and Java installed.
 * In the top level of the cloned directory, run the following command in your terminal:
 
