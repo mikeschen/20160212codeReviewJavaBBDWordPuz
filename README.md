@@ -1,4 +1,4 @@
-# Scrabble Score Calculator
+# Word Puzzle
 
 #### Creates a word puzzle from a sentence by removing vowels, February 12, 2016.
 
